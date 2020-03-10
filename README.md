@@ -1,4 +1,4 @@
-# A brief explanation
+# A Brief Explanation
 
 The Traveling Salesman Pick-up Problem makes one of countless variations of the Traveling Salesman Problem, this article seeks to relate different
 methods of solving the Traveling Salesman’s Pick-up and Delivery Problem,
