@@ -7,4 +7,4 @@ borhood Search (VNS), and from this relate to the solution through the Cons-
 truction Heuristic, Greedy Algorithm, and also some Refinement Heuristics.
 The informational nature for those seeking to know about the performance of
 the VNS meta heuristic and also about the restriction of collection and delivery
-to the traveling salesman problem, this article can help.
+to the traveling salesman problem, this work can help.
