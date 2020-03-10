@@ -6,3 +6,6 @@ to this end, a problem approach was carried out through the Variable Neighborhoo
 The informational nature for those seeking to know about the performance of
 the VNS meta heuristic and also about the restriction of collection and delivery
 to the traveling salesman problem, this work can help.
+
+## Main Reference:
+https://hhperez.webs.ull.es/PDsite/#XGLV99
